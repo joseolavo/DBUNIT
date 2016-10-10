@@ -1,0 +1,11 @@
+{
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*",
+		"phpunit/dbunit": ">=1.2"
+    }
+	
+	
+
+}

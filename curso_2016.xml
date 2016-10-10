@@ -1,0 +1,28 @@
+<dataset>
+    <table name="alunos">
+        <column>id</column>
+        <column>nome</column>
+        <column>tel</column>
+        <row>
+            <value>1</value>
+            <value>ana</value>
+            <value>9999900</value>
+        </row>
+		<row>
+            <value>2</value>
+            <value>pedro</value>
+            <value>9999922</value>
+        </row>
+		</table>
+		    <table name="disciplinas">
+        <column>id</column>
+        <column>nome</column>
+        <column>carga_horaria</column>
+        <row>
+            <value>1</value>
+            <value>Informatica</value>
+            <value>60</value>
+        </row>
+        
+    </table>
+    </dataset>
